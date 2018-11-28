@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1076975039674",
+    "firebase_url": "https://android-apps-a8945.firebaseio.com",
+    "project_id": "android-apps-a8945",
+    "storage_bucket": "android-apps-a8945.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076975039674:android:925253149d11f713",
+        "android_client_info": {
+          "package_name": "com.thetasolutions.firebasetools"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076975039674-k1j0e0uteoaqh4l993lr3i6p842qoda9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCufHQgMwwkCF1Dg_1nS-1eFGUIGNFc63w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirebaseTools</string>
+
+    <string name="msg_subscribed">Successfully subscribed</string>
+    <string name="msg_subscribe_failed">Error! while subscribing</string>
+
+    <string name="default_notification_channel_id">fcm_default_channel</string>
+</resources>
